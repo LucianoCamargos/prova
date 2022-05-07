@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;          
+}
+
+body{
+    background-color: rgb(4, 100, 107);
+}
+
+.conteudo{    
+    margin: auto;    
+    max-width: 1100px;
+    height: auto;
+    background-color: rgb(198, 233, 205);
+    padding-left: 25px;
+}
+
+.title{
+    color: rgb(6, 67, 78);
+    border-bottom: rgb(42, 173, 196) solid 2px;
+    text-align: center;
+}
